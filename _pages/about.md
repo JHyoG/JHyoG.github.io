@@ -43,7 +43,7 @@ More recently, I have been expanding my research toward video reasoning tasks us
 *2022.11* participation prize for Busan International Festival of Educational Contents, Pukyong National University, Korea  -->
 
 # 📖 Educations
-- *2019.03 - 2025.08 *, Undergraduate, Information and Statistics, with a dual major in Computer Science and Engineering, GNU, Jinju.
+- *2019.03 - 2025.08*, Undergraduate, Information and Statistics, with a dual major in Computer Science and Engineering, GNU, Jinju.
 - *2025.08* - present, M.S., Electrical Engineering and Computer Science, DGIST, Daegu.
 
 # 💻 Internships
