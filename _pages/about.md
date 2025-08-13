@@ -22,9 +22,9 @@ I am Hyogyeong Jeon, a M.s. student at DGIST (Daegu Gyeongbuk Institute of Scien
 I received my B.S. degree in Information and Statistics, with a dual major in Computer Science and Engineering, from GNU(Gyeongsang National University).
 
 <!-- To do list(1) : 관심분야 적기
-# My previous research focused on domain adaptation using image-to-image translation.
-# Currently, my research interests lie in object-centric video tasks such as Video Instance Segmentation (VIS) and Referring Video Object Segmentation (RVOS). 
-# More recently, I have been expanding my research toward video reasoning tasks using multi-modal large language models (MLLM). -->
+My previous research focused on domain adaptation using image-to-image translation.
+Currently, my research interests lie in object-centric video tasks such as Video Instance Segmentation (VIS) and Referring Video Object Segmentation (RVOS). 
+More recently, I have been expanding my research toward video reasoning tasks using multi-modal large language models (MLLM). -->
 
 
 
@@ -37,8 +37,8 @@ I received my B.S. degree in Information and Statistics, with a dual major in Co
 # 🎖 Honors and Awards
 - *2023.4* Top graduate of the remote internship program expert track , CJ Olivenetworks , Korea Economic Magazine , Firb, Korea
 
-# *2022.09* Grand Prize for My own learning method UCC contest, Gyeongsang National University, Korea
-# *2022.11* participation prize for Busan International Festival of Educational Contents, Pukyong National University, Korea
+<!--*2022.09* Grand Prize for My own learning method UCC contest, Gyeongsang National University, Korea
+*2022.11* participation prize for Busan International Festival of Educational Contents, Pukyong National University, Korea  -->
 
 # 📖 Educations
 - *2019.03 - 2025.08 *, Undergraduate, Information and Statistics, with a dual major in Computer Science and Engineering, GNU, Jinju.
