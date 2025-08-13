@@ -32,18 +32,20 @@ More recently, I have been expanding my research toward video reasoning tasks us
 
 # 🔥 News
 
+
 # 📝 Publications 
 
+
 # 🎖 Honors and Awards
-- *2023.4* Top graduate of the remote internship program expert track , CJ Olivenetworks , Korea Economic Magazine , Firb, Korea
+- *2023.04* Top graduate of the remote internship program expert track , CJ Olivenetworks , Korea Economic Magazine , Firb, Korea
 
 <!--*2022.09* Grand Prize for My own learning method UCC contest, Gyeongsang National University, Korea
 *2022.11* participation prize for Busan International Festival of Educational Contents, Pukyong National University, Korea  -->
 
 # 📖 Educations
 - *2019.03 - 2025.08 *, Undergraduate, Information and Statistics, with a dual major in Computer Science and Engineering, GNU, Jinju.
-- 2025.08 - present, M.S., Electrical Engineering and Computer Science, DGIST, Daegu.
+- *2025.08* - present, M.S., Electrical Engineering and Computer Science, DGIST, Daegu.
 
 # 💻 Internships
 - *2025.03 - 2025.07*, DGIST CVLAB
-  *2024.01.10 - 2024.01.30*, CJ Olivenetworks AI LAB
+- *2024.01.10 - 2024.01.30*, CJ Olivenetworks AI LAB
