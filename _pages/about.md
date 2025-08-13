@@ -19,12 +19,10 @@ redirect_from:
 
 
 I am Hyogyeong Jeon, a M.s. student at DGIST (Daegu Gyeongbuk Institute of Science and Technology, Daegu, Republic of Korea) under the supervision of Prof. [Sunghoon Im](https://sunghoonim.github.io/).
-I received my B.S. degree in Information and Statistics, with a dual major in Computer Science and Engineering, from GNU(Gyeongsang National University).
+ 
+ <!--To do list(1) : 관심분야 적기(CV도 작성하면 링크 걸어두기)
+ My current research focuses on object-centric video analysis, especially in Video Instance Segmentation(VIS) and Referring Video Object Segmentation(RVOS). My CV (PDF) -->
 
-<!-- To do list(1) : 관심분야 적기
-My previous research focused on domain adaptation using image-to-image translation.
-Currently, my research interests lie in object-centric video tasks such as Video Instance Segmentation (VIS) and Referring Video Object Segmentation (RVOS). 
-More recently, I have been expanding my research toward video reasoning tasks using multi-modal large language models (MLLM). -->
 
 
 
